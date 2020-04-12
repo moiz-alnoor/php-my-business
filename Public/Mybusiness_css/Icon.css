@@ -1,0 +1,79 @@
+/* PHONE */
+@media screen and  (max-width: 420px) {
+.header{
+    background-color: saddlebrown;
+}
+
+    #azz_jxs{
+        font-family: "Consolas", "Menlo", "Courier", monospace;
+        border: 3px solid #ffffff;
+        font-size: 15px;
+        border-radius: 50%;
+        color: #ffffff;
+        padding: 5px;
+        position: absolute;
+        background-color:steelblue;
+    }
+    .col{
+
+        padding-right: 5px;
+width: 40%;
+        direction: rtl;
+float: right;
+        margin-right: 4%;
+    }
+
+}
+
+@media screen and  (min-width:420px)and (max-width:750px){
+    .col{
+        width: 30%;
+        direction: rtl;
+        float: right;
+        margin: 1%;
+    }
+
+
+    #azz_jxs{
+        border: 3px solid #ffffff;
+        font-size: 16px;
+        border-radius: 50%;
+        color: #ffffff;
+        padding: 7px;
+        font-family: "Consolas", "Menlo", "Courier", monospace;
+        position: absolute;
+        background-color:steelblue    }
+}
+@media screen and (min-width:750px) {
+    .col{
+        width: 20%;
+        direction: rtl;
+        float: right;
+        padding: 10px;
+        margin-right: 2%;
+    }
+    #azz_jxs{
+        font-family: "Consolas", "Menlo", "Courier", monospace;
+        border: 3px solid #ffffff;
+        font-size: 20px;
+        border-radius: 50%;
+        color: #ffffff;
+        padding: 8px;
+        position:absolute;
+        background-color:steelblue;
+    }
+}
+
+
+.icon-users,.icon-download,.icon-upload,.icon-spinner11,.icon-file-text,.icon-move-up, .icon-undo, .icon-redo,.icon-stack,.icon-bubbles2,.icon-file-text2,.icon-user-plus,.icon-books,.icon-user-minus,.icon-stats-bars,.icon-paste,.icon-book,.icon-minus,.icon-library{
+    margin:5px;
+    padding:15px;
+    font-size: 70px;
+    color: #ffffff;
+    overflow: visible;
+    text-align:center;
+    background-color: deepskyblue;
+}
+.icon-users:hover,.icon-office:hover,.icon-download:hover,.icon-upload:hover,.icon-spinner11:hover,.icon-file-text:hover,.icon-move-up:hover,.icon-undo:hover,.icon-redo:hover,.icon-stack:hover,.icon-bubbles2:hover,.icon-file-text2:hover,.icon-user-plus:hover,.icon-books:hover,.icon-user-minus:hover,.icon-stats-bars:hover,.icon-paste:hover,.icon-book:hover,.icon-minus:hover,.icon-library:hover{
+   color:steelblue;
+}

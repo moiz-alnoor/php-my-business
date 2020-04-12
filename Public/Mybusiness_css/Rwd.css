@@ -1,0 +1,580 @@
+/* PHONE */
+
+
+@media screen and  (max-width: 450px) {
+#H-H{
+display: none;
+}
+
+
+
+    #date{
+
+        width: 130px;
+    }
+#right-icon{
+
+font-size: 20px;
+        float: right;
+    }
+
+#top .icon-office{
+
+   font-size: 15px;
+    float: right;
+    padding:2px;
+    margin-left:2px;
+    margin-right:7px;
+    }
+
+    #table-phone{
+        width: 90%;
+
+    }
+    #phone-td{
+        width: 5px;
+    }
+  .header  .icon-switch{
+
+      display: none;
+    }
+    .header a{
+display: none;
+    }
+
+
+    .icon-users,.icon-office,.icon-spinner11,.icon-file-text,.icon-file-text2,.icon-switch,.icon-move-up,.icon-user-plus, .icon-user-minus,.icon-stack,.icon-undo,.icon-paste,.icon-book,.icon-books,.icon-stats-bars,.icon-files-empty,.icon-redo{
+       font-size: 25px;
+    }
+   .header .icon-user,.icon-arrow-left2,.icon-menu{
+font-size: 30px;
+   }
+
+    .logo .icon-office,.icon-user,.icon-switch{
+    font-size: 30px;
+    float: inherit;
+
+}
+.logo table tr  td .icon-menu{
+
+    font-size: 30px;
+    float: inherit;
+
+}
+
+
+
+
+    #Alert{
+        width: 50%;
+    }
+
+    #AlertCont{
+        top: 100px;
+    }
+
+
+    #ajax{
+        min-width: 90%;
+
+    }
+
+
+    #top{
+
+    background-color: #ffffff;
+    position: relative;
+    height: 1em;
+    padding-bottom:15px;
+        padding-top:15px;
+        padding-left:10px;
+    color:#4682B4;
+    border: 0 solid #080808 ;
+}
+    .header{
+
+    color: #ffffff;
+    background-color: deepskyblue;
+    padding: 10px;
+    overflow: hidden;
+    position: relative;
+
+    }
+
+    .logo{
+
+        color:#ffffff;
+        background-color: deepskyblue;
+        position: relative;
+        padding-bottom: 10px;
+        border: 0 solid #080808;
+        text-align:center ;
+    }
+    .logo{
+        display: none;
+    }
+    table{
+        margin: auto;
+    }
+        .logo table{
+            color: #ffffff;
+            width: 90%;
+            border-radius: 0;
+            background-color: #00BFFF;
+
+            text-align: center;
+        }
+.logo tr td{
+    border-top: 2px dashed #E1E1E1;
+}
+
+.header span{
+   display: none;
+}
+label{
+    font-size:12px;
+}
+
+    .container{
+        position: relative;
+        top: 40px;
+        border: 0 solid darkblue;
+
+        overflow: hidden;
+        margin:auto;
+    }
+    #col-1,#col-2,#col-3,#col-4,#col-5{
+
+        background-color: #F2F2F2;
+        border: 1px solid #E1E1E1;
+        padding-top: 10px;
+        padding-right:2%;
+        padding-bottom:3%;
+        float: right;
+        margin-right:2.3%;
+        margin-bottom:2.3%;
+        width:44%;
+
+    }
+
+    .container-big  {
+
+        padding-right:10px;
+        position: relative;
+        margin: auto;
+        top: 40px;
+        border: 0px solid darkblue;
+        overflow: hidden;
+
+    }
+
+    .container-min{
+
+        position: relative;
+        top: 40px;
+        border: 0 solid darkblue;
+        overflow: hidden;
+        margin:auto;
+    }
+
+    #col-1-big,#col-2-big,#col-3-big,#col-4-big,#col-5-big {
+
+        border-radius: 5px;
+        background-color: #ffffff;
+        border: 0 solid #ffffff;
+        width: 100%;
+
+    }
+    #sale,#select,.select,input[type=password],input[type=date],input[type=number],input[type=email],input[type=text],input[type=tel]{
+
+        height:30px;
+        margin: 2%;
+        color:steelblue;
+        border-radius: 0;
+        border:2px solid lightskyblue;
+        width: 90%;
+    }
+    #textarea{
+        width:90%;
+    }
+
+    #hide-icon{
+        display: none;
+    }
+    samp{
+        font-size: 12px;
+        font-weight: bold;
+    }
+    .t{
+        width: 100px;
+        border: 2px solid #E1E1E1;
+        padding:1px;
+        background-color: #F2F2F2;
+        margin-right:8px;
+        margin-bottom:8px;
+
+    }
+
+}
+
+
+
+
+
+
+
+
+
+/* tab */
+
+@media screen and  (min-width:450px) and (max-width:800px){
+
+    .header a{
+        display: none;
+    }
+
+    #H-H{
+        display: none;
+    }
+
+    .header .icon-menu,.icon-arrow-left2{
+        font-size: 30px;
+    }
+#right-icon{
+    font-size: 20px;
+}
+
+    #top .icon-office{
+
+        font-size: 15px;
+        float: right;
+        padding:2px;
+        margin-left:2px;
+        margin-right:7px;
+    }
+    .header .icon-switch{
+        display: none;
+    }
+
+    .logo table tr  td .icon-menu{
+        font-size: 30px;
+        float: inherit;
+
+    }
+    .icon-office,.icon-spinner11,.icon-file-text,.icon-file-text2,.icon-switch,.icon-move-up,.icon-user-plus, .icon-user-minus,  .icon-stack, .icon-undo, .icon-users,.icon-paste,.icon-book,.icon-books,.icon-stats-bars,.icon-files-empty,.icon-redo{
+        font-size: 30px;
+    }
+    .logo .icon-office,.icon-users,.icon-switch{
+        font-size: 30px;
+        float: inherit;
+
+    }
+
+
+
+    #Alert{
+        width: 50%;
+    }
+
+    #AlertCont{
+        top: 100px;
+    }
+
+
+    #ajax{
+        min-width: 90%;
+
+    }
+
+    #top{
+
+        background-color: #ffffff;
+        position: relative;
+        height: 1em;
+        padding-bottom:15px;
+        padding-top:15px;
+        padding-left:10px;
+        color:#4682B4;
+        border: 0 solid #080808 ;
+    }
+    .header{
+        color: #ffffff;
+        background-color: deepskyblue;
+        padding: 10px;
+        overflow: hidden;
+        position: relative;
+    }
+
+    .logo{
+        color:#ffffff;
+        background-color: deepskyblue;
+        position: relative;
+        padding-bottom: 10px;
+        border: 0 solid #080808;
+        text-align:center ;
+    }
+    .logo{
+        display: none;
+    }
+    table{
+        margin: auto;
+    }
+    .logo table{
+        color: #ffffff;
+        width: 90%;
+        border-radius: 0;
+        background-color: #00BFFF;
+
+        text-align: center;
+    }
+    .logo tr td{
+        border-top: 2px dashed #E1E1E1;
+    }
+
+    .header span{
+        display: none;
+    }
+    label{
+        font-size:12px;
+    }
+
+    .container{
+        width: 90%;
+        position: relative;
+        top: 40px;
+        padding-right: 5%;
+        border: 0 solid darkblue;
+        overflow: hidden;
+        margin:auto;
+    }
+    #col-1,#col-2,#col-3,#col-4,#col-5{
+        background-color: #F2F2F2;
+        border: 1px solid #E1E1E1;
+        padding-top: 10px;
+        padding-bottom:3%;
+        padding-right:1%;
+        float: right;
+        margin-right:1%;
+        margin-bottom:2.3%;
+        width:125px;
+
+
+
+
+    }
+
+    .container-big  {
+        padding-right:10px;
+        position: relative;
+        margin: auto;
+        top: 40px;
+        border: 0 solid darkblue;
+        overflow: hidden;
+
+    }
+
+    .container-min{
+        position: relative;
+        top: 40px;
+        width: 33em;
+        border: 0 solid darkblue;
+        overflow: hidden;
+        margin:auto;
+    }
+
+    #col-1-big,#col-2-big,#col-3-big,#col-4-big,#col-5-big {
+
+        border-radius: 5px;
+        background-color: #ffffff;
+        border: 0 solid #ffffff;
+        width: 100%;
+
+    }
+    #sale,#select,.select,input[type=password],input[type=date],input[type=number],input[type=email],input[type=text],input[type=tel]{
+        height:30px;
+        margin: 2%;
+        color:steelblue;
+        border-radius: 0;
+        border:2px solid lightskyblue;
+        width: 90%;
+    }
+    #textarea{
+        width:90%;
+    }
+    #hide-icon{
+        display: none;
+    }
+
+
+    .logo .icon-office,.icon-user,.icon-switch{
+        font-size: 30px;
+        float: inherit;
+
+    }
+
+    .t{
+        width: 100px;
+        border: 2px solid #E1E1E1;
+        padding:1px;
+        background-color: #F2F2F2;
+        margin-right:6px;
+        margin-bottom:7px;
+
+    }
+}
+
+
+
+
+
+
+
+
+@media screen and (min-width:800px){
+
+    .header .icon-arrow-left2{
+        font-size: 30px;
+    }
+
+    #top .icon-office{
+        font-size:15px;
+        color: steelblue;
+        background-color: #ffffff;
+    }
+    .col .icon-office,.icon-users{
+    margin:5px;
+    padding:15px;
+    font-size: 70px;
+    color: #ffffff;
+    overflow: visible;
+    text-align:center;
+    background-color: deepskyblue;
+}
+
+    .col .icon-office:hover,.icon-users:hover{
+
+     color:steelblue;
+    }
+.header nav span{
+    font-size: 15px;
+}
+    .header nav span:hover{
+        padding-bottom:20px;
+        border-bottom: 4px solid steelblue;
+    }
+    .header nav span.icon-menu{
+        display: inline;
+        margin-left: 22px;
+    }
+    #top{
+
+         background-color: #ffffff;
+         position: relative;
+         height: 20px;
+         padding:15px;
+         color:#4682B4;
+         border: 0 solid #080808 ;
+    }
+
+
+      .header{
+color: #ffffff;
+          /*box-shadow: 0 4px 3px -2px #808080;*/
+          text-align: center;
+          height:20px;
+          position:relative;
+          padding:17px;
+          border-bottom: 1px solid  #00BFFF;
+          background-color: #00BFFF;
+
+    }
+
+    .container{
+        position: relative;
+        top: 80px;
+        max-width:56em;
+        border: 0 solid darkblue;
+        overflow: hidden;
+        margin:auto;
+    }
+
+    .container-min{
+        position: relative;
+        top: 80px;
+        max-width:75ex;
+        border: 0 solid darkblue;
+        overflow: hidden;
+        margin:auto;
+    }
+    #col-1,#col-2,#col-3,#col-4,#col-5{
+        float: right;
+        width:130px;
+
+        padding-top:10px;
+        padding-bottom: 10px;
+        margin-right:2%;
+        padding-left:1%;
+        padding-right:2%;
+        margin-top:5px;
+        margin-bottom:5px;
+        background-color: #F2F2F2;
+        border-radius: 0px;
+        border: 1px solid #E1E1E1;
+    }
+
+    .container-big  {
+        position: relative;
+
+        margin: auto;
+        top: 80px;
+        border: 0 solid darkblue;
+        overflow: hidden;
+        width: 95%;
+
+    }
+
+    .container-menu{
+        position: relative;
+        width: 45em;
+        margin: auto;
+        top: 80px;
+        border: 1px solid darkblue;
+        overflow: hidden;
+
+    }
+    #col-1-big,#col-2-big,#col-3-big,#col-4-big,#col-5-big {
+        width: 305px;
+        margin-right:30px;
+        padding: 2px;
+        border: 0 solid #E1E1E1;
+        float: right;
+
+    }
+    #ajax{
+
+        min-width: 100%;
+
+
+    }
+    .icon-menu{
+    display: none;
+    }
+.logo{
+    display: none;
+}
+.inv{
+    margin-right: 1em;
+}
+
+    samp{
+        font-family: "Helvetica Neue", Arial, sans-serif"; margin;
+    }
+
+    .t{
+        width: 100px;
+        border: 2px solid #E1E1E1;
+        padding:1px;
+        background-color: #F2F2F2;
+        margin-right:15px;
+
+    }}

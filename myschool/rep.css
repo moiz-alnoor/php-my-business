@@ -1,0 +1,347 @@
+*{}
+div{
+
+}
+.img{
+position: absolute;
+width: 5em;
+top: 3px;
+right: 1px;	
+}
+.p {
+   text-shadow: -4px 6px 3px #808080;
+    font-family:sans-serif;
+    color: white;
+    position: absolute;
+    top: 1px;
+    text-align: right;
+    right: 1em;
+    font-size: 6.2em;
+
+    font-style: normal;
+}
+.s {
+    font-family:sans-serif;
+    color: white;
+    position: absolute;
+    top: 5em;
+    text-align: right;
+    right: 5em;
+    width: 15em;
+    font-size: 1.6em;
+
+    font-style: normal;
+}
+*{}
+
+.tab{
+  font-size: 18px;
+    position: absolute;
+    left: 33em;
+    top: 15em;
+    border-radius: 7px;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: white;
+    color: black;
+    border: 0px solid #61b7ff;
+    box-shadow: rgba(0, 0, 0, .25) 0px 2px 7px 4px;
+
+}
+.tab1{
+    font-size: 18px;
+    position: absolute;
+    left: 33em;
+    top: 30em;
+    border-radius: 7px;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: white;
+    color: black;
+    border: 0px solid #61b7ff;
+    box-shadow: rgba(0, 0, 0, .25) 0px 2px 7px 4px;
+
+}
+.tab2{
+    font-size: 18px;
+    position: absolute;
+    left: 33em;
+    top: 50em;
+    border-radius: 7px;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: white;
+    color: black;
+    border: 0px solid #61b7ff;
+    box-shadow: rgba(0, 0, 0, .25) 0px 2px 7px 4px;
+
+}
+.password
+{
+    font-style: normal;
+    text-align: center;
+    border: 1px solid ;
+    border-radius: 5px;
+    border-color:deepskyblue;
+
+    position: relative;
+    left: 59em;
+    top: 12em;
+    /*border-bottom-width:0px;*/
+    height: 35px;
+    width: 10em;
+    font-family:sans-serif;
+    font-size: 15px;
+}
+.password1
+{
+    font-style: normal;
+    text-align: center;
+    border: 1px solid ;
+    border-radius: 5px;
+    border-color:deepskyblue;
+
+    position: relative;
+    left: 57em;
+    top: 19em;
+    /*border-bottom-width:0px;*/
+    height: 35px;
+    width: 10em;
+    font-family:sans-serif;
+    font-size: 15px;
+}
+
+.password2
+{
+    font-style: normal;
+    text-align: center;
+    border: 1px solid ;
+    border-radius: 5px;
+    border-color:deepskyblue;
+
+    position: relative;
+    left: 44em;
+    top: 30em;
+    /*border-bottom-width:0px;*/
+    height: 35px;
+    width: 10em;
+    font-family:sans-serif;
+    font-size: 15px;
+}
+.submit {
+    text-align: center;
+    font-size: 15px;
+    width: 58px;
+    height: 40px;
+
+    color: white;
+    background-color: blue;
+    border: 1px solid ;
+    border-radius: 5px;
+    border-color: dodgerblue;
+    left: 70em;
+    top: 12em;
+    position: absolute;
+    font-style: normal;
+    font-family: sans-serif;
+}
+
+.submit1 {
+    text-align: center;
+    font-size: 15px;
+    width: 58px;
+    height: 40px;
+
+    color: white;
+    background-color: blue;
+    border: 1px solid ;
+    border-radius: 5px;
+    border-color: dodgerblue;
+    left: 70em;
+    top: 22em;
+    position: absolute;
+    font-style: normal;
+    font-family: sans-serif;
+}
+
+.submit2 {
+    text-align: center;
+    font-size: 15px;
+    width: 58px;
+    height: 40px;
+
+    color: white;
+    background-color: blue;
+    border: 1px solid ;
+    border-radius: 5px;
+    border-color: dodgerblue;
+    left: 70em;
+    top: 33em;
+    position: absolute;
+    font-style: normal;
+    font-family: sans-serif;
+}
+
+
+#ser{
+
+    text-align: center;
+    border: 1px solid ;
+    border-radius: 5px;
+    border-color:deepskyblue;
+direction: rtl;
+
+    left: 59em;
+    top: 12em;
+    /*border-bottom-width:0px;*/
+    height: 35px;
+    width: 10em;
+    font-family:sans-serif;
+    font-size: 15px;
+}
+#ok{
+    text-align: center;
+font-family:fantasy;
+    width: 5em;
+    height: 2.5em;
+direction: rtl;
+    color: black;
+    background-color: #5BC5FF;
+    border: 0px solid ;
+    border-radius: 0px;
+    border-color: dodgerblue;
+    left: 70em;
+    top: 12em;
+
+
+}
+.table{
+border-radius: 8px;
+     /* box-shadow: 0 1px 14px 7px #808080;*/
+
+}
+#address{
+position: absolute;
+    border: solid 2px black;
+    box-shadow: -7px 7px 13px 2px black;
+    left: 70em;
+    background-color:black;
+
+    padding: 9px;
+    color: white;
+    text-align: center;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius : 20px ;
+
+}
+#addressedit{
+position: relative;
+    border: solid 2px black;
+    box-shadow: -7px 7px 13px 2px #808080;
+width: 11em;
+    left: 60em;
+    background-color:black;
+    padding: 9px;
+    color: white;
+    text-align: center;
+    border-radius: 11px;
+
+}
+
+#edit{
+    text-align: center;
+    width: 35px;
+    height: 26px;
+
+    color: white;
+    background-color:dodgerblue;
+    border: 1px solid ;
+    border-radius: 5px;
+    border-color: dodgerblue;
+    left: 70em;
+    top: 12em;
+
+}
+#add{
+    background-color: black;
+    border: 1px solid ;
+    padding: 5px;
+    border-radius: 7px;
+    height: 2em;
+margin: 2em;
+    color: white;
+}
+.area{
+    font-size: 17px;
+text-align:center;
+    left: 33em;
+    top: 15em;
+
+    border-radius: 15px;
+    direction: rtl;
+    font-family: sans-serif;
+    background-color: #61b7ff;
+    color: black;
+    border: 0px solid blue;
+    /*box-shadow: rgba(0, 0, 0, .25) 0px 2px 7px 4px;*/
+    padding: 1em;
+
+
+}
+hr{
+    border: solid 1px;
+    width: 54em;
+    color: lightgray;
+}
+arow{
+    padding: 7px;
+    margin-left: 5em;
+    text-align: right;
+    font-size:17.5px;
+    /* width:100px ;
+     height: 50px ;*/
+    position: absolute;
+    background-color: #61b7ff;
+    border: 0px solid ;
+    border-color: #61b7ff;
+    border-radius: 15px;
+    color: white;
+
+    top: 15em;
+    left: 5em;
+  width: 15em;
+}
+
+.arrow_box2:after, .arrow_box2:before
+{
+
+    left: 100%;
+    top: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0; width: 0;
+    position: absolute;
+    pointer-events: none;
+}
+.arrow_box2:after
+{
+    border-color: rgba(136, 183, 213, 0 );
+
+    border-left-color:#61b7ff;
+    border-width: 9px;
+    margin-top: -9px;
+}
+.arrow_box2:before
+{
+    border-color: rgba(194, 225, 245, 0);
+    border-left-color: #61b7ff;
+    border-width: 8px; margin-top: -28px;
+    margin-top: -8px;
+
+}
+
+#contact{
+    font-size: 10em;
+    position: absolute;
+    text-align: right;
+}
